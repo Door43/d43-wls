@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wls:home|Door43 (wls)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wls|d43-wls repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wls/archive/master.zip|d43-wls.zip]]
+
+**Recent Changes**
+{{changes>ns = wls}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wls|Ethnologue data]]
+
